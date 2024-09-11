@@ -3,6 +3,7 @@ public class biodata02 {
         System.out.println("Nama Lengkap     : Ahmad Putra Fajar Shdoiq");
         System.out.println("NIM/NPM          : 244107020130");
         System.out.println("Jenis Kelamin    : Laki-laki");
+        System.out.println("Hobby            : Membaca Manhwa");
         System.out.println("Jurusan          : Teknologi Informasi");
         System.out.println("Prodi            : D-IV Teknik INformatika");
         System.out.println("Universitas      : Politeknik Negeri Malang");
